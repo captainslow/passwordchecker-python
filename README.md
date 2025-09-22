@@ -6,7 +6,7 @@ Created following a tutorial by ZTM
 
 Usage:
 
-python3 password_checker.py <passwords to check>
+python3 password_checker.py (passwords as arguments)
 
 Dependancies:
 
